@@ -1,0 +1,11 @@
+﻿  Origine.cpp
+  Sudoku.cpp
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,17): error C2760: errore di sintassi: ';' non è previsto in questo punto; è previsto ']'
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,22): error C2143: errore di sintassi: ';' mancante prima di ']'
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,6): warning C4200: utilizzata estensione non standard: matrice di dimensioni zero in struct/union
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,6): message : Questo membro verrà ignorato da un costruttore o un operatore di assegnazione di copia/spostamento impostato come predefinito
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,24): error C2143: errore di sintassi: ')' mancante prima di ';'
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,24): error C2238: token imprevisti prima di ';'
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,32): error C2059: errore di sintassi: ']'
+D:\sigurtà\git\SUD0KU\SUD0KU\SUDOKU\SUDOKU\Sudoku.h(14,33): error C2238: token imprevisti prima di ';'
+  Generazione del codice in corso...
